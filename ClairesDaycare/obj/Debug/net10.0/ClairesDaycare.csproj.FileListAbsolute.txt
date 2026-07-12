@@ -1,0 +1,15 @@
+/workspaces/CS690_Project_Claire/ClairesDaycare/bin/Debug/net10.0/ClairesDaycare
+/workspaces/CS690_Project_Claire/ClairesDaycare/bin/Debug/net10.0/ClairesDaycare.deps.json
+/workspaces/CS690_Project_Claire/ClairesDaycare/bin/Debug/net10.0/ClairesDaycare.runtimeconfig.json
+/workspaces/CS690_Project_Claire/ClairesDaycare/bin/Debug/net10.0/ClairesDaycare.dll
+/workspaces/CS690_Project_Claire/ClairesDaycare/bin/Debug/net10.0/ClairesDaycare.pdb
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.AssemblyInfoInputs.cache
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.AssemblyInfo.cs
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.csproj.CoreCompileInputs.cache
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.sourcelink.json
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.dll
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/refint/ClairesDaycare.dll
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.pdb
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ClairesDaycare.genruntimeconfig.cache
+/workspaces/CS690_Project_Claire/ClairesDaycare/obj/Debug/net10.0/ref/ClairesDaycare.dll
