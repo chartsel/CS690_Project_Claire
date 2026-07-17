@@ -9,7 +9,7 @@ public class DatabaseManagerTests
         // Arrange
         // `GetTempFileName` finds a place in directory to safely store data without overwriting something
         string tempPath = Path.GetTempFileName();
-        File.WriteAllText(tempPath, "8812,Tiffany Camden,true,false,None");
+        File.WriteAllText(tempPath, "8812,Tiffany Camden,true,false,None,Mary Camden");
         var manager = new DatabaseManager();
 
         // Act
@@ -21,5 +21,5 @@ public class DatabaseManagerTests
 
         // Cleanup
         File.Delete(tempPath);
-    }cd ../ClairesDaycare
+    }
 }

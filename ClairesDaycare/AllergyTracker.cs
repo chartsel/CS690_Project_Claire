@@ -38,7 +38,7 @@ public class AllergyTracker
         else
         {
             Console.WriteLine("Child not found.");
-            Console.ReadLine();
+            
         }
         Console.WriteLine("\nPress Enter to return to main menu...");
         Console.ReadLine();

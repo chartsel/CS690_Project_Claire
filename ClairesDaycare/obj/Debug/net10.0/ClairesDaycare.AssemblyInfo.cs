@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClairesDaycare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2726c4130e590970ff704240d1d61bffa2b1deb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82ad49a79fe626caa9c5330da9e7d8654369994c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClairesDaycare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClairesDaycare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

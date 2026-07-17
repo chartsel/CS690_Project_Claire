@@ -7,12 +7,14 @@ class Program
     {
         DatabaseManager dbManager = new DatabaseManager();
         List<Child> database = dbManager.LoadDatabase("database.csv");
-
+        
         AttendanceManager attendanceManager = new AttendanceManager();
         AllergyTracker allergyTracker = new AllergyTracker();
         RatioMonitor ratioMonitor = new RatioMonitor();
         PickupValidator pickupValidator = new PickupValidator();
-
+        
+        SummaryGenerator summaryGenerator = new SummaryGenerator();
+        
         bool running = true;
         while (running)
         {
@@ -24,6 +26,7 @@ class Program
             Console.WriteLine("[2] Track allergies");
             Console.WriteLine("[3] Verify staff-to-child ratios");
             Console.WriteLine("[4] Check authorized pickups");
+            Console.WriteLine("[5] Generate end-of-day summary");
             Console.WriteLine("================================");
             Console.Write("TYPE CHOICE AND HIT ENTER > ");
             
@@ -44,6 +47,10 @@ class Program
             else if (input == "4")
             {
                 pickupValidator.VerifyPickup(database);
+            }
+            else if (input == "5")
+            {
+                summaryGenerator.GenerateSummary(database);
             }
             else
             {
